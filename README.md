@@ -20,5 +20,7 @@ To finish this:
 4) create a file with the name of `your_netid` and add 1. your name, 2.your email address 3. your github id.
 5) using `git remote add origin <server>` to add this reporitory as the remote server
 6) add, commit and push your **branch** to this resporitory.
-
+ ```
+ git push origin <branch_name>
+ ```
 

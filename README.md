@@ -14,7 +14,7 @@ https://api.github.com/users/your_github_user_name
 where instead of your_github_user_name you must use the desired GitHub username.
 
 To finish this: 
-1) please send an email to Yinrong(yt2172@nyu.edu) about your GitHub account to invite you as the collaborater of the resporitory.
+1) please send an email to yt2172@nyu.edu or send direct message on Slack about your GitHub account to invite you as the collaborater of the resporitory.
 2) pull this resporitory to your pc.
 3) using `git checkout -b your_netid` create and replace to a new branch.
 4) create a file with the name of `your_netid` and add 1. your name, 2.your email address 3. your github id.

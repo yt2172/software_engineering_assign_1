@@ -1,7 +1,7 @@
 # software_engineering_assign_1
 
 ## Introduction
-In this assignment, we will help you to familiar with git CVS and GitHub. Before beginning to write your code, you should first install git on your own personal computer. The git binaries can be installed https://git-scm.com/downloads. For a cheat-sheet of git commands, please see https://github.com/nyutandononline/CLI-Cheat-Sheet/blob/master/git-commands.md. For quick start, https://rogerdudler.github.io/git-guide/index.html is useful.
+In this assignment, we will help you to familiar with git CVS and GitHub. Before beginning to write your code, you should first install git on your own personal computer. The git binaries can be installed https://git-scm.com/downloads. For a cheat-sheet of git commands, please see https://github.com/nyutandononline/CLI-Cheat-Sheet/blob/master/git-commands.md. For a quick start, https://rogerdudler.github.io/git-guide/index.html is useful.
 
 After installing and configuring git, you should then create a GitHub account at https://github.com, to learn how to use GitHub, https://docs.github.com/en could help you.
 
